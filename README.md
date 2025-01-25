@@ -1,9 +1,5 @@
-## Hi there 👋 I'm Aleksei!
-
-<!--
-**alekseivshestakov/alekseivshestakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi everyone :wave: 👋 
+I'm C++developer/PhD Physics from Russia!
 
 - 🔭 I’m currently working on **Prokhorov General Physics Institute of the Russian Academy of Sciences: Moscow, Moscow, RU**
 - 🌱 I’m currently learning php
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/su0001
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
