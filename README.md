@@ -8,7 +8,9 @@ Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leos.alekseevich)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-shestakov-411bb12a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alekseishestakov)
-[![ODS](https://ods.ai/ods/logo/ods.svg)](https://ods.ai/users/pb2badfe0b979)
+<a href="https://ods.ai/users/pb2badfe0b979">
+  <img src="https://ods.ai/ods/logo/ods.svg" alt="ODS" width="100" height="100">
+</a>
 
 My IT skills
 
