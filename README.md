@@ -1,6 +1,8 @@
 # Hi everyone :wave:
 I'm C++developer/PhD Physics from Russia!
 
+![Telegram](https://t.me/su0001?style=for-the-badge&logo=telegram&logoColor=white)
+
 <details>
 <summary>
   More stuff about me
