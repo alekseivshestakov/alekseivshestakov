@@ -1,4 +1,4 @@
-# Hi everyone :wave: 👋 
+# Hi everyone :wave:
 I'm C++developer/PhD Physics from Russia!
 
 <details>
