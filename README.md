@@ -28,7 +28,7 @@ My IT skills
 
 Scientific parameters
 
-[![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0003-2940-8790)
+[![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2940-8790)
 
 <details>
 <summary>
