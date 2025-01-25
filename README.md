@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 I'm C++developer/PhD Physics from Russia!
 
-![Telegram](https://t.me/su0001&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <details>
 <summary>
