@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 I'm C++developer/PhD Physics from Russia!
 
-My [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekseiShes)
+My prev [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekseiShes)
 
 Social
 
